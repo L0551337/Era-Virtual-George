@@ -1,0 +1,15 @@
+1- O uso de softwares de codigo aberto representa diversas vantagens, no entanto, nem tudo são flores.                  
+Utilizar um sistema de código aberto significa liberdade, uma vez que o usuário não fica preso à empresa criadora do    
+software, o que garante um maior tempo de suporte para os softwares e preços mais baixos. Apesar disso, existem também desvantagens 
+em utilizar tais sistemas. Geralmente, os softwares de código aberto são bem mais complexos do que sistemasfechados, justamente por 
+normalmente existirem diversas distribuições do mesmo software, o que gera complicações para a adoção do sistema.
+
+2- Empresas gigantes migraram, ao longo dos anos, para o Linux por que os beneficios ofuscam os ônus relacionados a 
+utilizar sistemas fechados. Em uma empresa com algumas dezenas de computadores, possivelmente manter um software fechado
+é viável, mas quando consideramos o suporte a escalabilidade bidimendional, o Windows ou Unix deixam de ser vantajosos,
+justamente por custarem muito dinheiro, principalmente para empresas com milhares ou centenas de milhares de máquinas
+que alem de custarem dinheiro, têm que lidar com menos modularidade por conta do código fechado.
+
+3- Sim, o Linux popularizou a distribuição livre e foi pioneiro no processo de democratização do Software, ainda quando
+Linus Torvalds distribuia para seus colegas na faculdade, o que continuou com a Red Hat disponibilizando o download
+gratuito de sua distro no site. 
