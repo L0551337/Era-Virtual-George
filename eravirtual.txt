@@ -1,3 +1,5 @@
+ATIVIDADE 1
+
 1- O uso de softwares de codigo aberto representa diversas vantagens, no entanto, nem tudo são flores.                  
 Utilizar um sistema de código aberto significa liberdade, uma vez que o usuário não fica preso à empresa criadora do    
 software, o que garante um maior tempo de suporte para os softwares e preços mais baixos. Apesar disso, existem também desvantagens 
@@ -13,3 +15,19 @@ que alem de custarem dinheiro, têm que lidar com menos modularidade por conta d
 3- Sim, o Linux popularizou a distribuição livre e foi pioneiro no processo de democratização do Software, ainda quando
 Linus Torvalds distribuia para seus colegas na faculdade, o que continuou com a Red Hat disponibilizando o download
 gratuito de sua distro no site. 
+
+ATIVIDADE 3
+
+1- A Egghead considerou o Windows NT como insuficiente para gerenciar e operar seu site na rede. Além disso, 
+não quiseram esperar o Windows 2000 chegar para ver se seria suficiente (o que não era uma certeza). 
+
+2- Para a Aspect, interessa a função final do produto, e não em qual sistema operacional ele é executado, 
+por isso, eles optam por alternativas mais baratas como o Unix ou mainframes da IBM. Alem disso, eles podem
+se dar o luxo de utilizar o windows nt onde ele funciona e continuar com o Unix onde ele nao funciona.
+
+3- A Microsoft precisaria criar um sistema especifico separado do NT e direcionado ao publico das grandes manipuladoras de dados,
+ja que o NT se distanciou da proposta empresarial ha muito tempo. Os outros sistemas concorrentes devem aproveitar o preço mais baixo
+de seus produtos e mante-los sendo menos exigentes do que o sistema windows. 
+
+
+
